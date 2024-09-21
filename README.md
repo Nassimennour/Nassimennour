@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+  # Hi there, I'm Nassim 👋
 
 I'm a passionate IT engineering student with a focus on software development and a keen interest in cloud technologies and DevOps practices. I love exploring new technologies and working on innovative projects.
 
